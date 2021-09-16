@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @72697673-847269-7384
-- 👀 I’m interested in webpage design and create a game
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Webpage design and to create a game
-- 📫 How to reach me dm me and i would approach you :)
+- 👀 I’m interested in--> webpage design and create a game
+- 🌱 I’m currently learning--> programming
+- 💞️ I’m looking to-->collaborate on Webpage design and to create a game
+- 📫 How to reach me-->dm me and i will help you about programming or collab with me to create a game.:)
 
 <!---
 72697673-847269-7384/72697673-847269-7384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
